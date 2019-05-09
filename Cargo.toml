@@ -1,0 +1,10 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["Cameron Stark <cam@cystark.com.au>"]
+edition = "2018"
+
+[dependencies]
+
+rand = "0.3.14"
+
